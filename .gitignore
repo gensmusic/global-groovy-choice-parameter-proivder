@@ -1,0 +1,8 @@
+*.iml
+*.jar
+*.war
+*.ear
+
+.idea
+work
+target
